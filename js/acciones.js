@@ -10,7 +10,6 @@ $(document).ready(function(e) {
 				switch(op)
 				{
 					case 1:
-					
 					navigator.notification.beep(1);
 					break;
 					

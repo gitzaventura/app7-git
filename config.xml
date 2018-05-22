@@ -2,13 +2,13 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
 xmlns:gap="http:/7phonegap.com/ns/1.0"
-id ="com.phonegap.app7"
+id ="com.phonegap.app6"
 version ="1.0.0">
 
 <name>app7 Deslizar hacia la izquierda y a la derecha</name>
 
 <description>
-Aplicación que realiza el swipeo deslizamiento en el dispósitivo
+Deslizar hacia la izquierda y a la derecha
 </description>
 
 <autor href="https://build.phonegap.com" email="gitza2001@gmail.com">
